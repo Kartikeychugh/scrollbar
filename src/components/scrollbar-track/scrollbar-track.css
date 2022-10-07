@@ -1,0 +1,8 @@
+.scrollbar-track {
+    transition: 0.1s transform;
+    background: lightgray;
+}
+
+.scrollbar-track:hover {
+    transform:scaleX(1.5);
+}

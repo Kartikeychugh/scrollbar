@@ -1,0 +1,8 @@
+
+.scrollbar-thumb {
+    transition: 0.1s transform ease-out;
+}
+
+.scrollbar-thumb:hover {
+    transform:scaleX(1.5);
+}
